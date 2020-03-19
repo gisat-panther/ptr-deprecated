@@ -1,6 +1,6 @@
 {
   "name": "@gisatcz/ptr-deprecated",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Panther FE deprecated",
   "keywords": [
     "panther",
@@ -18,7 +18,7 @@
     "@gisatcz/ptr-atoms": "1.2.0",
     "@gisatcz/ptr-utils": "1.2.0",
     "@gisatcz/ptr-core": "1.2.0",
-    "@gisatcz/ptr-state": "1.2.1",
+    "@gisatcz/ptr-state": "1.2.2",
     "@turf/turf": "5.1.6",
     "chroma-js": "2.1.0",
     "classnames": "2.2.6",
